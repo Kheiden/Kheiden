@@ -1,9 +1,3 @@
-# Kurt Heiden  
-**Senior Technical Solutions Architect**  
-**kheiden.com ltd.**
-
----
-
 ## About Me  
 I am a passionate engineer with expertise in Artificial Intelligence, eCommerce, and Web Technology. I specialize in solving complex problems and driving innovation to help businesses achieve their goals.
 
