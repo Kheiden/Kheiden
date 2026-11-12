@@ -12,6 +12,9 @@ item and the answer comes with its evidence.
 - **Exchange**: what each item is worth today, and every option for it
 
 Website: https://starlightglobal.industries
+
 For agents: https://starlightglobal.industries/llms.txt
+
 Email: info@starlightglobal.industries
+
 LinkedIn: https://www.linkedin.com/in/kurtwheiden/
