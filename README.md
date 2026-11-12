@@ -1,6 +1,6 @@
 # Kurt Heiden
 
-I build [Starlight Global Industries](https://github.com/Starlight-Global-Industries).
+I'm building [Starlight Global Industries](https://github.com/Starlight-Global-Industries).
 
 Starlight is AI that knows things. The physical kind, each traced to the pictures it came from.
 Record a room or a shelf, and every item in it becomes a record you can check. Ask about any
